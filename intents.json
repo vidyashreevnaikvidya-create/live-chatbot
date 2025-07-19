@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+      "responses": ["Hello!", "Hi there!", "Hey!", "How can I help you?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": ["Goodbye!", "See you!", "Take care!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful"],
+      "responses": ["You're welcome!", "No problem!", "Anytime!"]
+    },
+    {
+      "tag": "name_query",
+      "patterns": ["What is your name?", "Who are you?"],
+      "responses": ["I'm your friendly chatbot!", "Call me ChatBuddy."]
+    },
+    {
+      "tag": "creator",
+      "patterns": ["Who created you?", "Who is your developer?"],
+      "responses": ["I was developed by Vidyashree V Naik – ID: [Your ID]."]
+    }
+  ]
+}
