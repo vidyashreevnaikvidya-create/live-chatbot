@@ -1,4 +1,4 @@
-# 🤖 Final Year Chatbot – ChatBuddy
+#  ChatBuddy
 
 ## 💬 Description
 
