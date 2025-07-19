@@ -22,4 +22,3 @@ python chatbot_gui.py
 ## 👨‍💻 Developer Info
 
 Developed by: **Vidyashree V Naik**  
-Student ID: **[Your ID]**
